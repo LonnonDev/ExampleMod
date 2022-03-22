@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "mod_id",
+  "id": "examplemod",
   "version": "${version}",
   "name": "Mod Name",
   "description": "Mod Description",
   "authors": [
-    "Author"
+    "LonnonDev",
+    "Lemon"
   ],
   "contact": {
     "homepage": "https://example.com/",
